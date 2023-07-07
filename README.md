@@ -1,2 +1,2 @@
 # EDA-Project
-This contains exploratory data analysis on titanic dataset
+This contains exploratory data analysis on netflix data
